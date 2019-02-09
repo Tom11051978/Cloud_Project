@@ -23,6 +23,6 @@ public class StringExample
 		System.out.println("s6: " + s6);
 		System.out.println("s7: " + s7);
 		System.out.println("s8: " + s8);
-	 /*    Comments suppose to work fine   */
+	 /*    Comments suppose to work fine / another change  */
 	}
 }
